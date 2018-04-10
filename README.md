@@ -22,7 +22,7 @@
 ## Risk Assessment, documentation and monitoring
 1. Each service will be documented and the documentation regularly reviewed to ensure that is it up to date.
 2. There must be an appropriate risk-assessment and this should specifically include risks assoicated with the chosen hosting platform.
-3. Services must have monitoring in place that will 
+3. Services must have monitoring in place that will give up to date 
 
 
 ## Security
@@ -30,7 +30,7 @@ Adherence to cloud security principles https://www.ncsc.gov.uk/guidance/implemen
 
 
 ## Interoperability
-Consideration must be given to 
+Consideration must be given to platform lock-in and interoperability with other platforms and systems. Where lock-in is acceptable, this should be documented and agreed with the business (with coverage of the potential costs of migration, if required).
 
 
 
