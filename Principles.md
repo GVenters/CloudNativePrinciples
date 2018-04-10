@@ -22,7 +22,7 @@
 ## Risk Assessment, documentation and monitoring
 1. Each service will be documented and the documentation regularly reviewed to ensure that is it up to date.
 2. There must be an appropriate risk-assessment and this should specifically include risks assoicated with the chosen hosting platform.
-3. Services must have monitoring in place that will give up to date 
+3. Services must have monitoring in place that will give up to date and meaningful meterics on the operation of the service and resource usage.
 
 
 ## Security
