@@ -27,7 +27,6 @@
    * IaaS - Infrastructure as a service
  More details on what these mena and what capabilities they provide are available [here](/)
 
-
 ## Risk Assessment, documentation.
 1. Each service will be documented and the documentation regularly reviewed to ensure that is it up to date.
    * basic document sets will include a system security policy, a privacy impact assessment (including GDPR) and where appropriate diversity impact and PBPP report. 
@@ -35,13 +34,15 @@
 3. Services must have monitoring in place that will give up to date and meaningful meterics on the operation of the service and resource usage.
 
 ## Monitoring
-Appropriate service metrics must be defined and monitored.
+Appropriate service metrics must be defined and monitored. These should reflect performance against business objectives of the service as well as reflecting best practice in monitoring of technical performance.
 
 ## Security
 Adherence to cloud security principles https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles
 
-## Compliance
-Service descriptions 
+## Compliance and Governance
+1. Cloud services will be governed in line with 
+2. Service descriptions 
+3. Standards
 
 ## Interoperability
 Consideration must be given to platform lock-in and interoperability with other platforms and systems. Where lock-in is acceptable, this should be documented and agreed with the business (with coverage of the potential costs of migration, if required).
